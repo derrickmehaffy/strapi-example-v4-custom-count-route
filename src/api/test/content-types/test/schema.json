@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tests",
+  "info": {
+    "singularName": "test",
+    "pluralName": "tests",
+    "displayName": "test"
+  },
+  "options": {
+    "draftAndPublish": false,
+    "comment": ""
+  },
+  "attributes": {
+    "test": {
+      "type": "string"
+    },
+    "blah": {
+      "type": "richtext"
+    },
+    "hello": {
+      "type": "json"
+    }
+  }
+}
